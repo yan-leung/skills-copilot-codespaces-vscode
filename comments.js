@@ -59,7 +59,7 @@ var server = http.createServer(function(req, res) {
     }
 });
 server.listen(3000);
-console.log('Server is running at http:// 
+console.log('Server is running at http://localhost:3000');
 
 
 
